@@ -1,0 +1,45 @@
+IN SAMPLE
+
+Benchmark Stats
+Cumulative Return: 0.0123
+StDev Daily: 0.017004
+Mean Daily: 0.000168
+
+Manual Stats
+Cumulative Return: 0.371084
+StDev Daily: 0.01285
+Mean Daily: 0.000708
+
+
+Benchmark Stats
+Cumulative Return: 0.0123
+StDev Daily: 0    0.017004
+Mean Daily: 0    0.000168
+
+Optimal Stats:
+Cumulative Return: 5.7861
+StDev Daily: 0.004548
+Mean Daily: 0.003817
+
+OUT SAMPLE
+
+Benchmark Stats
+Cumulative Return: -0.0834
+StDev Daily: 0.008481
+Mean Daily: -0.000137
+
+Manual Stats
+Cumulative Return: 0.280055
+StDev Daily: 0.007161
+Mean Daily: 0.000517
+
+
+Benchmark Stats
+Cumulative Return:  -0.0834
+StDev Daily:   0.008481
+Mean Daily:  -0.000137
+
+Optimal Stats
+Cumulative Return:  3.1202
+StDev Daily:  0.002734
+Mean Daily:   0.002823

@@ -1,0 +1,8 @@
+Start Date: 2008-06-01 00:00:00
+End Date: 2009-06-01 00:00:00
+Symbols: ['IBM', 'X', 'GLD', 'JPM']
+Allocations: [ 0.  0.  1.  0.]
+Sharpe Ratio: 0.420788569582
+Volatility (stdev of daily returns): 0.020819753125
+Average Daily Return: 0.000551873116966
+Cumulative Return: 0.0883356070941
